@@ -99,12 +99,18 @@
   }
   /* Footer */
   .footer {
-    padding: 20px;
+    padding: 40px;
     background: #4c45d8;
     text-align: center;
   }
 
-  
+  #email {
+    float: left;
+  }
+
+  #datum {
+    float: right;
+  }
 
 
   
