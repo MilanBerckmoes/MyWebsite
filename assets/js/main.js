@@ -34,6 +34,10 @@
     }
   }
 
+  //Start dark/light theme section
+
+  //End Dark/light theme section
+
   /**
    * Easy on scroll event listener 
    */
